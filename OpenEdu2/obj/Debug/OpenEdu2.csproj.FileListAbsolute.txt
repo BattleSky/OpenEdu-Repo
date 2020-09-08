@@ -1,0 +1,6 @@
+C:\Users\Skyy\source\repos\OpenEdu1\OpenEdu2\obj\Debug\OpenEdu2.csprojAssemblyReference.cache
+C:\Users\Skyy\source\repos\OpenEdu1\OpenEdu2\bin\Debug\OpenEdu2-Methods.exe.config
+C:\Users\Skyy\source\repos\OpenEdu1\OpenEdu2\bin\Debug\OpenEdu2-Methods.exe
+C:\Users\Skyy\source\repos\OpenEdu1\OpenEdu2\bin\Debug\OpenEdu2-Methods.pdb
+C:\Users\Skyy\source\repos\OpenEdu1\OpenEdu2\obj\Debug\OpenEdu2-Methods.exe
+C:\Users\Skyy\source\repos\OpenEdu1\OpenEdu2\obj\Debug\OpenEdu2-Methods.pdb

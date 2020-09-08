@@ -1,0 +1,11 @@
+C:\Users\Skyy\source\repos\OpenEdu1\Перестановки (практика)\obj\Debug\netcoreapp3.1\Перестановки (практика).csprojAssemblyReference.cache
+C:\Users\Skyy\source\repos\OpenEdu1\Перестановки (практика)\obj\Debug\netcoreapp3.1\Перестановки (практика).AssemblyInfoInputs.cache
+C:\Users\Skyy\source\repos\OpenEdu1\Перестановки (практика)\obj\Debug\netcoreapp3.1\Перестановки (практика).AssemblyInfo.cs
+C:\Users\Skyy\source\repos\OpenEdu1\Перестановки (практика)\bin\Debug\netcoreapp3.1\Перестановки (практика).exe
+C:\Users\Skyy\source\repos\OpenEdu1\Перестановки (практика)\bin\Debug\netcoreapp3.1\Перестановки (практика).deps.json
+C:\Users\Skyy\source\repos\OpenEdu1\Перестановки (практика)\bin\Debug\netcoreapp3.1\Перестановки (практика).runtimeconfig.json
+C:\Users\Skyy\source\repos\OpenEdu1\Перестановки (практика)\bin\Debug\netcoreapp3.1\Перестановки (практика).runtimeconfig.dev.json
+C:\Users\Skyy\source\repos\OpenEdu1\Перестановки (практика)\bin\Debug\netcoreapp3.1\Перестановки (практика).dll
+C:\Users\Skyy\source\repos\OpenEdu1\Перестановки (практика)\bin\Debug\netcoreapp3.1\Перестановки (практика).pdb
+C:\Users\Skyy\source\repos\OpenEdu1\Перестановки (практика)\obj\Debug\netcoreapp3.1\Перестановки (практика).dll
+C:\Users\Skyy\source\repos\OpenEdu1\Перестановки (практика)\obj\Debug\netcoreapp3.1\Перестановки (практика).pdb

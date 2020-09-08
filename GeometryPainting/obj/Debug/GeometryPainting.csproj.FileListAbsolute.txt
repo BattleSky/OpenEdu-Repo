@@ -1,0 +1,11 @@
+C:\Users\Skyy\source\repos\OpenEdu1\GeometryPainting\obj\Debug\GeometryPainting.csprojAssemblyReference.cache
+C:\Users\Skyy\source\repos\OpenEdu1\GeometryPainting\obj\Debug\GeometryPainting.Properties.Resources.resources
+C:\Users\Skyy\source\repos\OpenEdu1\GeometryPainting\obj\Debug\GeometryPainting.csproj.GenerateResource.cache
+C:\Users\Skyy\source\repos\OpenEdu1\GeometryPainting\bin\Debug\GeometryPainting.exe.config
+C:\Users\Skyy\source\repos\OpenEdu1\GeometryPainting\bin\Debug\GeometryPainting.exe
+C:\Users\Skyy\source\repos\OpenEdu1\GeometryPainting\bin\Debug\GeometryPainting.pdb
+C:\Users\Skyy\source\repos\OpenEdu1\GeometryPainting\bin\Debug\GeometryTasks.dll
+C:\Users\Skyy\source\repos\OpenEdu1\GeometryPainting\bin\Debug\GeometryTasks.pdb
+C:\Users\Skyy\source\repos\OpenEdu1\GeometryPainting\obj\Debug\GeometryPainting.csproj.CopyComplete
+C:\Users\Skyy\source\repos\OpenEdu1\GeometryPainting\obj\Debug\GeometryPainting.exe
+C:\Users\Skyy\source\repos\OpenEdu1\GeometryPainting\obj\Debug\GeometryPainting.pdb

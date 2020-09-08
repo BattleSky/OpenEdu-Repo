@@ -1,0 +1,13 @@
+C:\Users\Skyy\source\repos\OpenEdu1\AccountingModel\bin\Debug\HotelAccounting.exe.config
+C:\Users\Skyy\source\repos\OpenEdu1\AccountingModel\bin\Debug\HotelAccounting.exe
+C:\Users\Skyy\source\repos\OpenEdu1\AccountingModel\bin\Debug\HotelAccounting.pdb
+C:\Users\Skyy\source\repos\OpenEdu1\AccountingModel\obj\Debug\HotelAccounting.csprojAssemblyReference.cache
+C:\Users\Skyy\source\repos\OpenEdu1\AccountingModel\obj\Debug\MainWindow.g.cs
+C:\Users\Skyy\source\repos\OpenEdu1\AccountingModel\obj\Debug\HotelAccounting_MarkupCompile.cache
+C:\Users\Skyy\source\repos\OpenEdu1\AccountingModel\obj\Debug\HotelAccounting_MarkupCompile.lref
+C:\Users\Skyy\source\repos\OpenEdu1\AccountingModel\obj\Debug\MainWindow.baml
+C:\Users\Skyy\source\repos\OpenEdu1\AccountingModel\obj\Debug\HotelAccounting.g.resources
+C:\Users\Skyy\source\repos\OpenEdu1\AccountingModel\obj\Debug\HotelAccounting.Properties.Resources.resources
+C:\Users\Skyy\source\repos\OpenEdu1\AccountingModel\obj\Debug\HotelAccounting.csproj.GenerateResource.cache
+C:\Users\Skyy\source\repos\OpenEdu1\AccountingModel\obj\Debug\HotelAccounting.exe
+C:\Users\Skyy\source\repos\OpenEdu1\AccountingModel\obj\Debug\HotelAccounting.pdb

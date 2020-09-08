@@ -1,0 +1,5 @@
+C:\Users\Skyy\source\repos\OpenEdu1\OpenEdu1\bin\Release\OpenEdu1.exe.config
+C:\Users\Skyy\source\repos\OpenEdu1\OpenEdu1\bin\Release\OpenEdu1.exe
+C:\Users\Skyy\source\repos\OpenEdu1\OpenEdu1\bin\Release\OpenEdu1.pdb
+C:\Users\Skyy\source\repos\OpenEdu1\OpenEdu1\obj\Release\OpenEdu1.exe
+C:\Users\Skyy\source\repos\OpenEdu1\OpenEdu1\obj\Release\OpenEdu1.pdb

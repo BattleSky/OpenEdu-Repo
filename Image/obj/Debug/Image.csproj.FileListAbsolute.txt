@@ -1,0 +1,7 @@
+C:\Users\Skyy\source\repos\OpenEdu1\Image\bin\Debug\eurobot.bmp
+C:\Users\Skyy\source\repos\OpenEdu1\Image\bin\Debug\Recognizer.exe.config
+C:\Users\Skyy\source\repos\OpenEdu1\Image\bin\Debug\Recognizer.exe
+C:\Users\Skyy\source\repos\OpenEdu1\Image\bin\Debug\Recognizer.pdb
+C:\Users\Skyy\source\repos\OpenEdu1\Image\obj\Debug\Image.csprojAssemblyReference.cache
+C:\Users\Skyy\source\repos\OpenEdu1\Image\obj\Debug\Recognizer.exe
+C:\Users\Skyy\source\repos\OpenEdu1\Image\obj\Debug\Recognizer.pdb

@@ -1,0 +1,6 @@
+C:\Users\Skyy\source\repos\OpenEdu1\Интерфейсы\obj\Debug\Интерфейсы.csprojAssemblyReference.cache
+C:\Users\Skyy\source\repos\OpenEdu1\Интерфейсы\bin\Debug\Интерфейсы.exe.config
+C:\Users\Skyy\source\repos\OpenEdu1\Интерфейсы\bin\Debug\Интерфейсы.exe
+C:\Users\Skyy\source\repos\OpenEdu1\Интерфейсы\bin\Debug\Интерфейсы.pdb
+C:\Users\Skyy\source\repos\OpenEdu1\Интерфейсы\obj\Debug\Интерфейсы.exe
+C:\Users\Skyy\source\repos\OpenEdu1\Интерфейсы\obj\Debug\Интерфейсы.pdb

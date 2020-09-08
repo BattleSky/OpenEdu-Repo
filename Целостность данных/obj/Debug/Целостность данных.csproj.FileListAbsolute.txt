@@ -1,0 +1,6 @@
+C:\Users\Skyy\source\repos\OpenEdu1\Целостность данных\bin\Debug\Целостность данных.exe.config
+C:\Users\Skyy\source\repos\OpenEdu1\Целостность данных\bin\Debug\Целостность данных.exe
+C:\Users\Skyy\source\repos\OpenEdu1\Целостность данных\bin\Debug\Целостность данных.pdb
+C:\Users\Skyy\source\repos\OpenEdu1\Целостность данных\obj\Debug\Целостность данных.csprojAssemblyReference.cache
+C:\Users\Skyy\source\repos\OpenEdu1\Целостность данных\obj\Debug\Целостность данных.exe
+C:\Users\Skyy\source\repos\OpenEdu1\Целостность данных\obj\Debug\Целостность данных.pdb

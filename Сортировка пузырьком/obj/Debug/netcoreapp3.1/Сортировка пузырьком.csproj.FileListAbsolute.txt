@@ -1,0 +1,11 @@
+C:\Users\Skyy\source\repos\OpenEdu1\Сортировка пузырьком\bin\Debug\netcoreapp3.1\Сортировка пузырьком.exe
+C:\Users\Skyy\source\repos\OpenEdu1\Сортировка пузырьком\bin\Debug\netcoreapp3.1\Сортировка пузырьком.deps.json
+C:\Users\Skyy\source\repos\OpenEdu1\Сортировка пузырьком\bin\Debug\netcoreapp3.1\Сортировка пузырьком.runtimeconfig.json
+C:\Users\Skyy\source\repos\OpenEdu1\Сортировка пузырьком\bin\Debug\netcoreapp3.1\Сортировка пузырьком.runtimeconfig.dev.json
+C:\Users\Skyy\source\repos\OpenEdu1\Сортировка пузырьком\bin\Debug\netcoreapp3.1\Сортировка пузырьком.dll
+C:\Users\Skyy\source\repos\OpenEdu1\Сортировка пузырьком\bin\Debug\netcoreapp3.1\Сортировка пузырьком.pdb
+C:\Users\Skyy\source\repos\OpenEdu1\Сортировка пузырьком\obj\Debug\netcoreapp3.1\Сортировка пузырьком.csprojAssemblyReference.cache
+C:\Users\Skyy\source\repos\OpenEdu1\Сортировка пузырьком\obj\Debug\netcoreapp3.1\Сортировка пузырьком.AssemblyInfoInputs.cache
+C:\Users\Skyy\source\repos\OpenEdu1\Сортировка пузырьком\obj\Debug\netcoreapp3.1\Сортировка пузырьком.AssemblyInfo.cs
+C:\Users\Skyy\source\repos\OpenEdu1\Сортировка пузырьком\obj\Debug\netcoreapp3.1\Сортировка пузырьком.dll
+C:\Users\Skyy\source\repos\OpenEdu1\Сортировка пузырьком\obj\Debug\netcoreapp3.1\Сортировка пузырьком.pdb

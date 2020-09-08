@@ -1,0 +1,5 @@
+C:\Users\Skyy\source\repos\OpenEdu1\GeometryTasks\bin\Debug\GeometryTasks.dll
+C:\Users\Skyy\source\repos\OpenEdu1\GeometryTasks\bin\Debug\GeometryTasks.pdb
+C:\Users\Skyy\source\repos\OpenEdu1\GeometryTasks\obj\Debug\GeometryTasks.csprojAssemblyReference.cache
+C:\Users\Skyy\source\repos\OpenEdu1\GeometryTasks\obj\Debug\GeometryTasks.dll
+C:\Users\Skyy\source\repos\OpenEdu1\GeometryTasks\obj\Debug\GeometryTasks.pdb

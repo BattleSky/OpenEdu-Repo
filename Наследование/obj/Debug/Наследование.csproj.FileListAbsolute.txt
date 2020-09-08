@@ -1,0 +1,6 @@
+C:\Users\Skyy\source\repos\OpenEdu1\Наследование\bin\Debug\Наследование.exe.config
+C:\Users\Skyy\source\repos\OpenEdu1\Наследование\bin\Debug\Наследование.exe
+C:\Users\Skyy\source\repos\OpenEdu1\Наследование\bin\Debug\Наследование.pdb
+C:\Users\Skyy\source\repos\OpenEdu1\Наследование\obj\Debug\Наследование.csprojAssemblyReference.cache
+C:\Users\Skyy\source\repos\OpenEdu1\Наследование\obj\Debug\Наследование.exe
+C:\Users\Skyy\source\repos\OpenEdu1\Наследование\obj\Debug\Наследование.pdb

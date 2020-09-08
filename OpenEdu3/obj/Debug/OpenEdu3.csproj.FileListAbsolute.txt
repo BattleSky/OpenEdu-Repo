@@ -1,0 +1,6 @@
+C:\Users\Skyy\source\repos\OpenEdu1\OpenEdu3\bin\Debug\OpenEdu3.exe.config
+C:\Users\Skyy\source\repos\OpenEdu1\OpenEdu3\bin\Debug\OpenEdu3.exe
+C:\Users\Skyy\source\repos\OpenEdu1\OpenEdu3\bin\Debug\OpenEdu3.pdb
+C:\Users\Skyy\source\repos\OpenEdu1\OpenEdu3\obj\Debug\OpenEdu3.exe
+C:\Users\Skyy\source\repos\OpenEdu1\OpenEdu3\obj\Debug\OpenEdu3.pdb
+C:\Users\Skyy\source\repos\OpenEdu1\OpenEdu3\obj\Debug\OpenEdu3.csprojAssemblyReference.cache

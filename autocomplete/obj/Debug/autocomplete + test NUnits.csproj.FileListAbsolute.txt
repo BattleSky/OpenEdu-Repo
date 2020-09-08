@@ -1,0 +1,14 @@
+C:\Users\Skyy\source\repos\OpenEdu1\autocomplete\bin\Debug\dic\adjectives.txt
+C:\Users\Skyy\source\repos\OpenEdu1\autocomplete\bin\Debug\dic\nouns.txt
+C:\Users\Skyy\source\repos\OpenEdu1\autocomplete\bin\Debug\dic\verbs.txt
+C:\Users\Skyy\source\repos\OpenEdu1\autocomplete\bin\Debug\Autocomplete.exe.config
+C:\Users\Skyy\source\repos\OpenEdu1\autocomplete\bin\Debug\Autocomplete.exe
+C:\Users\Skyy\source\repos\OpenEdu1\autocomplete\bin\Debug\Autocomplete.pdb
+C:\Users\Skyy\source\repos\OpenEdu1\autocomplete\bin\Debug\nunit.framework.dll
+C:\Users\Skyy\source\repos\OpenEdu1\autocomplete\obj\Debug\autocomplete + test NUnits.csprojAssemblyReference.cache
+C:\Users\Skyy\source\repos\OpenEdu1\autocomplete\obj\Debug\Autocomplete.AutocompleteForm.resources
+C:\Users\Skyy\source\repos\OpenEdu1\autocomplete\obj\Debug\Autocomplete.Properties.Resources.resources
+C:\Users\Skyy\source\repos\OpenEdu1\autocomplete\obj\Debug\autocomplete + test NUnits.csproj.GenerateResource.cache
+C:\Users\Skyy\source\repos\OpenEdu1\autocomplete\obj\Debug\autocomplete + test NUnits.csproj.CopyComplete
+C:\Users\Skyy\source\repos\OpenEdu1\autocomplete\obj\Debug\Autocomplete.exe
+C:\Users\Skyy\source\repos\OpenEdu1\autocomplete\obj\Debug\Autocomplete.pdb

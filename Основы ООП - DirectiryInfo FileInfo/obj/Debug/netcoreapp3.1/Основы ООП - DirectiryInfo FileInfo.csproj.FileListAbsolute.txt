@@ -1,0 +1,11 @@
+C:\Users\Skyy\source\repos\OpenEdu1\Основы ООП - DirectiryInfo FileInfo\bin\Debug\netcoreapp3.1\Основы ООП - DirectiryInfo FileInfo.exe
+C:\Users\Skyy\source\repos\OpenEdu1\Основы ООП - DirectiryInfo FileInfo\bin\Debug\netcoreapp3.1\Основы ООП - DirectiryInfo FileInfo.deps.json
+C:\Users\Skyy\source\repos\OpenEdu1\Основы ООП - DirectiryInfo FileInfo\bin\Debug\netcoreapp3.1\Основы ООП - DirectiryInfo FileInfo.runtimeconfig.json
+C:\Users\Skyy\source\repos\OpenEdu1\Основы ООП - DirectiryInfo FileInfo\bin\Debug\netcoreapp3.1\Основы ООП - DirectiryInfo FileInfo.runtimeconfig.dev.json
+C:\Users\Skyy\source\repos\OpenEdu1\Основы ООП - DirectiryInfo FileInfo\bin\Debug\netcoreapp3.1\Основы ООП - DirectiryInfo FileInfo.dll
+C:\Users\Skyy\source\repos\OpenEdu1\Основы ООП - DirectiryInfo FileInfo\bin\Debug\netcoreapp3.1\Основы ООП - DirectiryInfo FileInfo.pdb
+C:\Users\Skyy\source\repos\OpenEdu1\Основы ООП - DirectiryInfo FileInfo\obj\Debug\netcoreapp3.1\Основы ООП - DirectiryInfo FileInfo.csprojAssemblyReference.cache
+C:\Users\Skyy\source\repos\OpenEdu1\Основы ООП - DirectiryInfo FileInfo\obj\Debug\netcoreapp3.1\Основы ООП - DirectiryInfo FileInfo.AssemblyInfoInputs.cache
+C:\Users\Skyy\source\repos\OpenEdu1\Основы ООП - DirectiryInfo FileInfo\obj\Debug\netcoreapp3.1\Основы ООП - DirectiryInfo FileInfo.AssemblyInfo.cs
+C:\Users\Skyy\source\repos\OpenEdu1\Основы ООП - DirectiryInfo FileInfo\obj\Debug\netcoreapp3.1\Основы ООП - DirectiryInfo FileInfo.dll
+C:\Users\Skyy\source\repos\OpenEdu1\Основы ООП - DirectiryInfo FileInfo\obj\Debug\netcoreapp3.1\Основы ООП - DirectiryInfo FileInfo.pdb

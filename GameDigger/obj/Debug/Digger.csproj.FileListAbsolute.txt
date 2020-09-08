@@ -1,0 +1,15 @@
+C:\Users\Skyy\source\repos\OpenEdu1\GameDigger\bin\Debug\Images\Digger.png
+C:\Users\Skyy\source\repos\OpenEdu1\GameDigger\bin\Debug\Images\Gold.png
+C:\Users\Skyy\source\repos\OpenEdu1\GameDigger\bin\Debug\Images\Monster.png
+C:\Users\Skyy\source\repos\OpenEdu1\GameDigger\bin\Debug\Images\Sack.png
+C:\Users\Skyy\source\repos\OpenEdu1\GameDigger\bin\Debug\Images\Terrain.png
+C:\Users\Skyy\source\repos\OpenEdu1\GameDigger\bin\Debug\11-digger.exe.config
+C:\Users\Skyy\source\repos\OpenEdu1\GameDigger\bin\Debug\11-digger.exe
+C:\Users\Skyy\source\repos\OpenEdu1\GameDigger\bin\Debug\11-digger.pdb
+C:\Users\Skyy\source\repos\OpenEdu1\GameDigger\bin\Debug\nunit.framework.dll
+C:\Users\Skyy\source\repos\OpenEdu1\GameDigger\obj\Debug\Digger.csprojAssemblyReference.cache
+C:\Users\Skyy\source\repos\OpenEdu1\GameDigger\obj\Debug\Digger.Properties.Resources.resources
+C:\Users\Skyy\source\repos\OpenEdu1\GameDigger\obj\Debug\Digger.csproj.GenerateResource.cache
+C:\Users\Skyy\source\repos\OpenEdu1\GameDigger\obj\Debug\Digger.csproj.CopyComplete
+C:\Users\Skyy\source\repos\OpenEdu1\GameDigger\obj\Debug\11-digger.exe
+C:\Users\Skyy\source\repos\OpenEdu1\GameDigger\obj\Debug\11-digger.pdb
