@@ -81,8 +81,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Массивы", "ConsoleAp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Передача массива в метод", "ConsoleApp16\Передача массива в метод.csproj", "{8F6F22AE-2FDD-475E-9EB1-D041E02C4CE0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp17", "ConsoleApp17\ConsoleApp17.csproj", "{B2F73F9D-A9F4-43D2-B144-9D02BF5436E1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -245,10 +243,6 @@ Global
 		{8F6F22AE-2FDD-475E-9EB1-D041E02C4CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F6F22AE-2FDD-475E-9EB1-D041E02C4CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F6F22AE-2FDD-475E-9EB1-D041E02C4CE0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B2F73F9D-A9F4-43D2-B144-9D02BF5436E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B2F73F9D-A9F4-43D2-B144-9D02BF5436E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B2F73F9D-A9F4-43D2-B144-9D02BF5436E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B2F73F9D-A9F4-43D2-B144-9D02BF5436E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
