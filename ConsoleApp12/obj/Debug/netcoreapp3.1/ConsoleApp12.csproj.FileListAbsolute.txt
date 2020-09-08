@@ -1,0 +1,11 @@
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.exe
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.deps.json
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.json
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.dev.json
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csprojAssemblyReference.cache
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfo.cs
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.pdb

@@ -1,0 +1,10 @@
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp7\bin\Debug\netcoreapp3.1\Задача-загадка.exe
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp7\bin\Debug\netcoreapp3.1\Задача-загадка.deps.json
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp7\bin\Debug\netcoreapp3.1\Задача-загадка.runtimeconfig.json
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp7\bin\Debug\netcoreapp3.1\Задача-загадка.runtimeconfig.dev.json
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp7\bin\Debug\netcoreapp3.1\Задача-загадка.dll
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp7\bin\Debug\netcoreapp3.1\Задача-загадка.pdb
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp7\obj\Debug\netcoreapp3.1\Задача-загадка.AssemblyInfoInputs.cache
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp7\obj\Debug\netcoreapp3.1\Задача-загадка.AssemblyInfo.cs
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp7\obj\Debug\netcoreapp3.1\Задача-загадка.dll
+C:\Users\Sky\source\repos\ConsoleApp1\ConsoleApp7\obj\Debug\netcoreapp3.1\Задача-загадка.pdb
